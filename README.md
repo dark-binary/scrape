@@ -2,9 +2,9 @@
 
 Test script to gather information about:
 
-1. Total number of users
-2. List of all users
-3. Number of admin users
-4. Number of non-admin users
-5. List of admin users
-6. List of non admin users
+Total number of users
+List of all users
+Number of admin users
+List of admin users
+Number of non-admin users
+List of non admin users
