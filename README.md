@@ -1,6 +1,6 @@
 # Scrape - Linux
 
-Test script to gather information about:
+Bash script to gather information about:
 
 1. Total number of users
 2. List of all users
