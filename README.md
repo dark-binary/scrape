@@ -1,4 +1,4 @@
-# Scrape
+# Scrape - Linux
 
 Test script to gather information about:
 
